@@ -10,3 +10,10 @@ Downsides:
   1) It's not very modular
   2) It's difficult to debug
   3) Not a good practice. 
+
+  
+Internal Javascript: 
+  
+<script type = "text/javascript">    Everything inside it will be a javascript code. 
+  alert("Hello");
+  
