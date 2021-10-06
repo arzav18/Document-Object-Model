@@ -16,4 +16,10 @@ Internal Javascript:
   
 <script type = "text/javascript">    Everything inside it will be a javascript code. 
   alert("Hello");
+  </script>
+  
+  
+External Javascript: 
+  
+  <script src = "index.js" charset="utf-8"></script>
   
