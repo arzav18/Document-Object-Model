@@ -1,5 +1,7 @@
 # Document-Object-Model
 
+DOM : It basically catalogs the web page into indivisual objects that we can select and manipulate.
+
 Inline Javascript: 
 
 <body onload = "alert('hello')">
