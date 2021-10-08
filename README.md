@@ -22,6 +22,6 @@ Internal Javascript:
   
   
 External Javascript: 
-  
+      
   <script src = "index.js" charset="utf-8"></script>
   
