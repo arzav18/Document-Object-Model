@@ -1,6 +1,6 @@
 # Document-Object-Model
 
-DOM : It basically catalogs the web page into indivisual objects that we can select and manipulate.
+DOM : It basically catalogs the web page into indivisual objects that we can select and manipulate. The task of converting an HTML file into DOM is done by the browser when you load up the webpage. It turns each of these elements and their associated data into a tree structure with a bunch of objects that you can select and manipulate
 
 Inline Javascript: 
 
